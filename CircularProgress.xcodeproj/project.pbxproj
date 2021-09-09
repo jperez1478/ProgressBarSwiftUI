@@ -11,6 +11,7 @@
 		8E8C650926E9858B000F6BD5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E8C650826E9858B000F6BD5 /* ContentView.swift */; };
 		8E8C650B26E9858C000F6BD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E8C650A26E9858C000F6BD5 /* Assets.xcassets */; };
 		8E8C650E26E9858C000F6BD5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E8C650D26E9858C000F6BD5 /* Preview Assets.xcassets */; };
+		8E8C651626E98734000F6BD5 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E8C651526E98734000F6BD5 /* ProgressBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		8E8C650A26E9858C000F6BD5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E8C650D26E9858C000F6BD5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8E8C650F26E9858C000F6BD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E8C651526E98734000F6BD5 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				8E8C650626E9858B000F6BD5 /* CircularProgressApp.swift */,
+				8E8C651526E98734000F6BD5 /* ProgressBar.swift */,
 				8E8C650826E9858B000F6BD5 /* ContentView.swift */,
 				8E8C650A26E9858C000F6BD5 /* Assets.xcassets */,
 				8E8C650F26E9858C000F6BD5 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E8C650926E9858B000F6BD5 /* ContentView.swift in Sources */,
+				8E8C651626E98734000F6BD5 /* ProgressBar.swift in Sources */,
 				8E8C650726E9858B000F6BD5 /* CircularProgressApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
